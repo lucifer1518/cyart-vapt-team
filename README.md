@@ -1,11 +1,11 @@
 VAPT Project – Week 2
 
-Objective
+Objective:
 Perform vulnerability assessment on Metasploitable using multiple tools.
 
 ---
 
-Tools Used
+Tools Used:
 - Nmap
 - OpenVAS
 - Nikto
@@ -13,27 +13,27 @@ Tools Used
 
 ---
 
-Scanning Process
+Scanning Process:
 
-Nmap Scan
+Nmap Scan:
 - Identified open ports and services
 
-OpenVAS Scan
+OpenVAS Scan:
 - Detected vulnerabilities with CVSS scores
 
-Nikto Scan
+Nikto Scan:
 - Unauthenticated scan: public vulnerabilities
 - Authenticated scan: similar results observed
 
-Dirb Scan
+Dirb Scan:
 - Discovered hidden directories
 
 ---
 
-Screenshots
-Stored inside the report documents presented.
+Screenshots:
+- Stored inside the report documents presented.
 
 ---
 
-Conclusion
-The system contains multiple vulnerabilities including outdated services and weak configurations.
+Conclusion:
+- The system contains multiple vulnerabilities including outdated services and weak configurations.
