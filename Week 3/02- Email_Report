@@ -1,0 +1,14 @@
+## 📧 Escalation Email
+
+> **Subject:** Critical Security Vulnerabilities Identified – Immediate Action Required  
+>  
+> Dear Development Team,  
+>  
+> During the recent security assessment, multiple critical vulnerabilities were identified on the target system (192.168.1.250). These include a backdoor in VSFTPD 2.3.4 enabling remote command execution, along with cross-site scripting (XSS) and session fixation issues. Using a customized Python exploit from Exploit-DB, we successfully gained root-level access, demonstrating full system compromise.  
+>  
+> These vulnerabilities pose a serious risk, including unauthorized access, data theft, and system takeover. Immediate remediation is required, including patching vulnerable services, implementing proper input validation, and securing session management mechanisms.  
+>  
+> Please prioritize this issue urgently.  
+>  
+> Regards,  
+> **Security Team**
